@@ -16,5 +16,5 @@ Adaptive Digital Signal Processing
 kadaiX
 ├── documents：授業資料（著作権の関係により非公開）
 ├── program：ソースコード
-└── report:提出用レポート(& グラフ作成用の簡単なプログラムなど)
+└── report:提出用レポート(& レポートに掲載するグラフ作成用の簡単なプログラムなど)
 ```
