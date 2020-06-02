@@ -13,7 +13,7 @@ Adaptive Digital Signal Processing
 * 課題5：適応信号処理技術に関する利用例や動向などを調べ発表
 
 ```
-kadaiXX
+kadaiX
 ├── documents：授業資料（著作権の関係により非公開）
 ├── program：ソースコード
 └── report:提出用レポート(& グラフ作成用の簡単なプログラムなど)
